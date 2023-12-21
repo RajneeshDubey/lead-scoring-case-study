@@ -98,4 +98,4 @@ mlflow serve --model-uri <path_to_sqilte_db> --port <port_number> --host <host_a
 
 ## Demo
 
-The screen shots for the pipelines can be found here [https://github.com/RajneeshDubey/lead-scoring-case-study/blob/master/Screenshots.pdf](ScreenShots)
+The screen shots for the pipelines can be found here [https://github.com/RajneeshDubey/lead-scoring-case-study/blob/main/Screenshots.pdf](ScreenShots)
